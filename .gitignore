@@ -1,0 +1,14 @@
+node_modules/
+target/
+.idea/
+.vscode/
+*.class
+*.log
+.DS_Store
+build/
+bin/
+out/
+.gradle/
+.settings/
+.classpath
+.project
